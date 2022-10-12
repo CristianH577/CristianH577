@@ -10,6 +10,10 @@ Soy programador freelance con conocimientos de:
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 
 Programas con los que he trabajado:
+NetBeans
+PhpMyAdmin
+Visual Studio Code
+XAMPP
 
 
 <!--
