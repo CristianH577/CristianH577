@@ -16,3 +16,4 @@ Visual Studio Code
 XAMPP
 
 [![Basico](https://img.shields.io/badge/Nivel-Basico-14a1f0?style=plastic&logo=&logoColor=white&labelColor=101010)]()
+[![Intermedio](https://img.shields.io/badge/Nivel-Intermedio-14a1f0?style=plastic&logo=&logoColor=white&labelColor=101010)]()
