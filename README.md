@@ -25,3 +25,5 @@ Soy programador freelance con conocimientos de:
 
 ## Contacto:
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)]()
+[![GMAIL](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)]()
+[![OUTLOOK](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=outlook&logoColor=white&labelColor=101010)]()
