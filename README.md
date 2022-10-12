@@ -1,4 +1,8 @@
-### Hi there 👋
+### 👋 Hi there, my name is Cristian Herrera
+
+I am a freelance programmer with knowledge of:
+-Basic level: Python.
+-Intermediate level: HTML5, PHP, CSS3, JS and MySQL..
 
 <!--
 **CristianH577/CristianH577** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
