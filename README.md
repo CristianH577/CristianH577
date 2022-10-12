@@ -2,11 +2,12 @@
 
 Soy programador freelance con conocimientos de:
 
--Basico: Java, Python.
+-Basico: Python.
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
 
--Intermedio: HTML5, PHP, CSS3, JS and MySQL.
+-Intermedio: HTML5, PHP, CSS3
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 
 Programas con los que he trabajado:
 
