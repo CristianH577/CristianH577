@@ -15,4 +15,4 @@ PhpMyAdmin
 Visual Studio Code
 XAMPP
 
-[![Basic](https://img.shields.io/badge/Nivel-Baico-14a1f0?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=101010)]()
+[![Basico](https://img.shields.io/badge/Nivel-Basico-14a1f0?style=plastic&logo=&logoColor=white&labelColor=101010)]()
