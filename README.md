@@ -17,7 +17,7 @@ Soy programador freelance con conocimientos de:
 
 Programas con los que he trabajado:
 
-[![NETBEANS](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=netbeansproyect&logoColor=white&labelColor=101010)]()
+[![NETBEANS](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeans&logoColor=white&labelColor=101010)]()
 [![PHPMYADMIN](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white&labelColor=101010)]()
 [![VSC](https://img.shields.io/badge/Visual_Studio_Code-5C2D91?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=101010)]()
 [![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white&labelColor=101010)]()
