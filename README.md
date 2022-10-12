@@ -2,6 +2,7 @@
 
 Soy programador freelance con conocimientos de:
 
+## Tecnologías:
 [![Basico](https://img.shields.io/badge/Nivel-Basico-yellow?style=plastic&logo=&logoColor=white&labelColor=101010)]()
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
@@ -15,7 +16,7 @@ Soy programador freelance con conocimientos de:
 [![JavaScript](https://img.shields.io/badge/JavaScript-3776AB?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 
-Programas con los que he trabajado:
+## Programas:
 
 [![NETBEANS](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white&labelColor=101010)]()
 [![PHPMYADMIN](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white&labelColor=101010)]()
