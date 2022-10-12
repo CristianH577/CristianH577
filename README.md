@@ -24,7 +24,7 @@ Soy programador freelance con conocimientos de:
 [![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white&labelColor=101010)]()
 
 ## Contacto:
-[![Discord](https://img.shields.io/badge/Kotar1142-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](Kotar#1142)
-[![GMAIL](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:cristianh212019@gmail.com)
+[![Discord](https://img.shields.io/badge/Kotar1142-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://discord.com/)
+[![GMAIL](https://img.shields.io/badge/cristianh212019@gmail.com-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:cristianh212019@gmail.com)
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/cristian-herrera-931344230/)
-[![OUTLOOK](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white&labelColor=101010)](mailto:cristian.herrera07@hotmail.com)
+[![OUTLOOK](https://img.shields.io/badge/cristian.herrera07@hotmail.com-Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white&labelColor=101010)](mailto:cristian.herrera07@hotmail.com)
