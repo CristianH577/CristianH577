@@ -22,3 +22,6 @@ Soy programador freelance con conocimientos de:
 [![PHPMYADMIN](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white&labelColor=101010)]()
 [![VSC](https://img.shields.io/badge/Visual_Studio_Code-5C2D91?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=101010)]()
 [![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white&labelColor=101010)]()
+
+## Contacto:
+[![LINKEDIN](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)]()
