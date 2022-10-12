@@ -1,7 +1,9 @@
 ### 👋 Hi there, my name is Cristian Herrera
 
 I am a freelance programmer with knowledge of:
+
 -Basic level: Python.
+
 -Intermediate level: HTML5, PHP, CSS3, JS and MySQL..
 
 <!--
