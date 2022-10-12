@@ -1,10 +1,15 @@
-### 👋 Hi there, my name is Cristian Herrera
+### 👋 Hola, mi nombre es Cristian Herrera.
 
-I am a freelance programmer with knowledge of:
+Soy programador freelance con conocimientos de:
 
--Basic level: Python.
+-Basico: Java, Python.
+[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
 
--Intermediate level: HTML5, PHP, CSS3, JS and MySQL..
+-Intermedio: HTML5, PHP, CSS3, JS and MySQL.
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
+
+Programas con los que he trabajado:
+
 
 <!--
 **CristianH577/CristianH577** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
