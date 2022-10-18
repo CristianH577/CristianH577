@@ -7,7 +7,6 @@ Soy programador freelance con conocimientos de:
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 [![Java](https://img.shields.io/badge/Java-F7DF1E?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
-[![PHPMYADMIN](https://img.shields.io/badge/php_My_Admin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white&labelColor=101010)]()
 [![TS](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=101010)]()
 [![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&labelColor=101010)]()
 
@@ -23,6 +22,7 @@ Soy programador freelance con conocimientos de:
 
 [![NETBEANS](https://img.shields.io/badge/Net_Beans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white&labelColor=101010)]()
 [![VSC](https://img.shields.io/badge/Visual_Studio_Code-5C2D91?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=101010)]()
+[![PHPMYADMIN](https://img.shields.io/badge/php_My_Admin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white&labelColor=101010)]()
 [![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white&labelColor=101010)]()
 
 ## Contacto:
