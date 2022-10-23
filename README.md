@@ -18,11 +18,14 @@ Soy programador freelance con conocimientos de:
 [![JavaScript](https://img.shields.io/badge/JavaScript-3776AB?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 [![MySQL](https://img.shields.io/badge/My_SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 
+## Herramientas
+[![PHPMYADMIN](https://img.shields.io/badge/php_My_Admin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white&labelColor=101010)]()
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=101010)]()
+
 ## Programas:
 
 [![NETBEANS](https://img.shields.io/badge/Net_Beans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white&labelColor=101010)]()
 [![VSC](https://img.shields.io/badge/Visual_Studio_Code-5C2D91?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=101010)]()
-[![PHPMYADMIN](https://img.shields.io/badge/php_My_Admin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white&labelColor=101010)]()
 [![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white&labelColor=101010)]()
 
 ## Contacto:
