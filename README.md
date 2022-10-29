@@ -10,6 +10,7 @@ Soy programador freelance con conocimientos de:
 [![TS](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=101010)]()
 [![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&labelColor=101010)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-3776AB?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
+[![JQuery](https://img.shields.io/badge/JQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white&labelColor=101010)]()
 
 [![Intermedio](https://img.shields.io/badge/Nivel-Intermedio-orange?style=plastic&logo=&logoColor=white&labelColor=101010)]()
 
