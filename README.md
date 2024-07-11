@@ -1,6 +1,6 @@
 ### 👋 Hola, mi nombre es Cristian Herrera.
 
-Soy programador freelance, trabajo tanto en frontend como en backend y manejo principalmente:
+Soy programador freelance, trabajo tanto en Front-end como en Back-end y manejo principalmente:
 
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-3776AB?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
